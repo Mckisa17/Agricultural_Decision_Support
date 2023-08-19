@@ -31,7 +31,7 @@ This project aims to build a data warehouse of historical weather data sourced f
    ```sh
    git clone https://github.com/YourUsername/weather-data-warehouse.git
 
-###Legal and Ethical Considerations
+### Legal and Ethical Considerations
 1. Data Usage: Ensure you adhere to NOAA's data usage policies and any associated costs or rate limits.
 2. Accuracy: Ensure data accuracy, especially when advising farmers, to avoid misleading information.
 3. Privacy: Always ensure no personal or sensitive data is stored or processed without appropriate permissions.
