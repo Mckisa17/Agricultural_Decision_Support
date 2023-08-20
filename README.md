@@ -29,7 +29,7 @@ This project aims to build a data warehouse of historical weather data sourced f
 
 1. Clone the repo:
    ```sh
-   git clone https://github.com/YourUsername/weather-data-warehouse.git
+   git clone https://github.com/Mckisa17/weather-data-warehouse.git
 
 ### Legal and Ethical Considerations
 1. Data Usage: Ensure you adhere to NOAA's data usage policies and any associated costs or rate limits.
